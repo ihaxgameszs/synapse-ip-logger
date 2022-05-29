@@ -17,7 +17,7 @@ syn.request({
 
 -- i dont support ip logging this is just to show how easy it is to ip log someone if thay use your script 
 
--- THIS SCRIPT BELOW WILL SPOOF YOUR IP DONT GET LOGGED
+-- THIS SCRIPT BELOW WILL SPOOF YOUR IP DONT GET LOGGED  https://github.com/3JBH/Roblox-IP-Spoofer
 spoofedIP = "420.69.420" -- your fake ip
 spoofedHttpbin = [[{
   "args": {}, 
